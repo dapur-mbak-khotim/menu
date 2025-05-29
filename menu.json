@@ -1,0 +1,37 @@
+[
+  {
+    "image": "13k.jpg",
+    "price": "Rp13.000",
+    "items": "Mie, Ayam Panggang/Goreng/Laos, Sambel Goreng Kentang, Nasi Kuning/Putih"
+  },
+  {
+    "image": "15k.jpg",
+    "price": "Rp15.000",
+    "items": "Mie, Ayam Lebih Besar, Sambel Goreng Kentang, Nasi Kuning/Putih"
+  },
+  {
+    "image": "18k.jpg",
+    "price": "Rp18.000",
+    "items": "Mie, Ayam Panggang, Sambel Goreng Kentang, Nugget, Nasi Kuning/Putih"
+  },
+  {
+    "image": "20k.jpg",
+    "price": "Rp20.000",
+    "items": "Mie, Ayam Panggang, Sambel Goreng Kentang, Telur, Nasi Kuning/Putih"
+  },
+  {
+    "image": "25k.jpg",
+    "price": "Rp25.000",
+    "items": "Mie, Ayam Lebih Besar, Sambel Goreng Kentang, Telur, Nasi Kuning/Putih"
+  },
+  {
+    "image": "27k.jpg",
+    "price": "Rp27.000",
+    "items": "Mie, Ayam Panggang, Telur Asin, Sambel Goreng Kentang, Nasi Kuning/Putih"
+  },
+  {
+    "image": "geprek 10k.jpg",
+    "price": "Rp10.000",
+    "items": "Ayam Geprek, Sambal, Nasi Putih"
+  }
+]
